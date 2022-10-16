@@ -10,7 +10,7 @@ val id:String="3123123"
 val completo:String= random+id
 
  */
-
+aasssd
 
 val f = (x:Int) => x + 1
 val f2 = f.compose((x:Int)=>x-1)
