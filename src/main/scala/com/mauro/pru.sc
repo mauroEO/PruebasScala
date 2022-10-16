@@ -17,7 +17,7 @@ val f2 = f.compose((x:Int)=>x-1)
 println(f(1))
 print(f2(1))
 f.toString()
-
+zxc
 
 
 val funcionLoca = List(1,2,3).map{
